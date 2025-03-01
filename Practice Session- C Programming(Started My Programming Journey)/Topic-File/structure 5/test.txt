@@ -1,2 +1,0 @@
-Name = Sajib kumar bhattacharjee
-,Age=20
