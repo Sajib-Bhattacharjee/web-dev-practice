@@ -1,0 +1,20 @@
+{
+  "name": "external__module",
+  "version": "1.0.0",
+  "description": "Some external module I'll install here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Basic",
+    "and",
+    "fundamental",
+    "thing."
+  ],
+  "author": "Sajib Bhattacharjee",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.9.6"
+  }
+}

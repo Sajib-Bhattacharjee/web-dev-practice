@@ -1,0 +1,49 @@
+/* Home Page Desgin Starts Here */
+h2 {
+  text-align: center;
+}
+/* Home Page Desgin Ends Here */
+nav {
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+.nav-link {
+  text-decoration: none;
+  margin: 10px;
+  color: white;
+}
+.nav-link:hover {
+  color: pink;
+}
+nav .active {
+  color: yellow;
+}
+section {
+  display: grid;
+  grid-gap: 1rem;
+}
+
+article {
+  background-color: aliceblue;
+}
+
+@media screen and (min-width: 600px) {
+  section {
+    grid-template-columns: auto auto;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  section {
+    grid-template-columns: auto auto auto;
+  }
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

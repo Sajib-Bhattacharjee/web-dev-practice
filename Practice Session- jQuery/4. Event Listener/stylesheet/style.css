@@ -1,0 +1,11 @@
+.styleOne {
+  background-color: pink;
+  font-weight: bolder;
+  width: 600px;
+  margin: auto;
+}
+.styleTwo {
+  text-align: center;
+  padding: 1rem;
+  font-style: italic;
+}

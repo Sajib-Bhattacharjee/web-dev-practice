@@ -1,0 +1,8 @@
+Name 		                 Age 	         Phone Number
+----                             -----           ------------
+Sajib kumar Bhattacharjee        19       	 1708009080
+Hirak Mandal Arko		 19 	         1810770458
+Saiful islam		  	 19              1708009090
+Fatema zahan sayla		 19 	         140040040
+Rohit kumar bala		 19 	         1563452580
+Biplab kuamr		 	 19              1789718542
